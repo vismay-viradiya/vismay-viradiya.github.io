@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 14380,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "VIsmay"
+					},
+					"BwAAAPoDAAAAAAAA+wMAAAAAAAAAAAAA+wMAAAAAAAD7AwAAAAAAAAsAAABKaWdhciBTYWJsZfsDAAAAAAAA/AMAAAAAAAAAAAAA/AMAAAAAAAD9AwAAAAAAAAAAAAD9AwAAAAAAAP4DAAAAAAAAAAAAAP4DAAAAAAAA/wMAAAAAAAAAAAAA/wMAAAAAAAAABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+gMAAAAAAAAFBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAAAEAAAAAAAAAQQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					6,
+					"left_delete",
+					null,
+					"BgAAAAAEAAAAAAAAAAQAAAAAAAABAAAAIP8DAAAAAAAA/wMAAAAAAAABAAAAef4DAAAAAAAA/gMAAAAAAAABAAAAYf0DAAAAAAAA/QMAAAAAAAABAAAAbfwDAAAAAAAA/AMAAAAAAAABAAAAc/sDAAAAAAAA+wMAAAAAAAABAAAASQ",
+					"AQAAAAAAAAABAAAAAQQAAAAAAAABBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "ismay"
+					},
+					"BQAAAPsDAAAAAAAA/AMAAAAAAAAAAAAA/AMAAAAAAAD9AwAAAAAAAAAAAAD9AwAAAAAAAP4DAAAAAAAAAAAAAP4DAAAAAAAA/wMAAAAAAAAAAAAA/wMAAAAAAAAABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA+wMAAAAAAAD7AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": " Viradi"
+					},
+					"BwAAAAAEAAAAAAAAAQQAAAAAAAAAAAAAAQQAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAMEAAAAAAAAAAAAAAMEAAAAAAAABAQAAAAAAAAAAAAABAQAAAAAAAAFBAAAAAAAAAAAAAAFBAAAAAAAAAYEAAAAAAAAAAAAAAYEAAAAAAAABwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "ya"
+					},
+					"AgAAAAcEAAAAAAAACAQAAAAAAAAAAAAACAQAAAAAAAAJBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwQAAAAAAAAHBAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "Vismay"
+					},
+					"BwAAACgFAAAAAAAAKQUAAAAAAAAAAAAAKQUAAAAAAAApBQAAAAAAAAUAAABKaWdhcikFAAAAAAAAKgUAAAAAAAAAAAAAKgUAAAAAAAArBQAAAAAAAAAAAAArBQAAAAAAACwFAAAAAAAAAAAAACwFAAAAAAAALQUAAAAAAAAAAAAALQUAAAAAAAAuBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKAUAAAAAAAAtBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": " C"
+					},
+					"AgAAAC4FAAAAAAAALwUAAAAAAAAAAAAALwUAAAAAAAAwBQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAALgUAAAAAAAAuBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					2,
+					"left_delete",
+					null,
+					"AgAAAC8FAAAAAAAALwUAAAAAAAABAAAAQy4FAAAAAAAALgUAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAMAUAAAAAAAAwBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": "Vismya"
+					},
+					"BwAAAN8HAAAAAAAA4AcAAAAAAAAAAAAA4AcAAAAAAADgBwAAAAAAAAUAAABKaWdhcuAHAAAAAAAA4QcAAAAAAAAAAAAA4QcAAAAAAADiBwAAAAAAAAAAAADiBwAAAAAAAOMHAAAAAAAAAAAAAOMHAAAAAAAA5AcAAAAAAAAAAAAA5AcAAAAAAADlBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wcAAAAAAADkBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOQHAAAAAAAA5AcAAAAAAAABAAAAYeMHAAAAAAAA4wcAAAAAAAABAAAAeQ",
+					"AQAAAAAAAAABAAAA5QcAAAAAAADlBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "ay"
+					},
+					"AgAAAOMHAAAAAAAA5AcAAAAAAAAAAAAA5AcAAAAAAADlBwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wcAAAAAAADjBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAOUHAAAAAAAA5gcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QcAAAAAAADlBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOUHAAAAAAAA5QcAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA5gcAAAAAAADmBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"delete_word",
+					{
+						"forward": false
+					},
+					"AQAAAOwHAAAAAAAA7AcAAAAAAAAFAAAAU2FibGU",
+					"AQAAAAAAAAABAAAA8QcAAAAAAADxBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "Viea"
+					},
+					"BAAAAOwHAAAAAAAA7QcAAAAAAAAAAAAA7QcAAAAAAADuBwAAAAAAAAAAAADuBwAAAAAAAO8HAAAAAAAAAAAAAO8HAAAAAAAA8AcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AcAAAAAAADsBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "diya"
+					},
+					"BAAAAPAHAAAAAAAA8QcAAAAAAAAAAAAA8QcAAAAAAADyBwAAAAAAAAAAAADyBwAAAAAAAPMHAAAAAAAAAAAAAPMHAAAAAAAA9AcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8AcAAAAAAADwBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"left_delete",
+					null,
+					"AQAAAO4HAAAAAAAA7gcAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAA7wcAAAAAAADvBwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert",
+					{
+						"characters": "r"
+					},
+					"AQAAAO4HAAAAAAAA7wcAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7gcAAAAAAADuBwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"typing-text"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1688,
+								1688
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 487.2,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.2
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 51.2
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
