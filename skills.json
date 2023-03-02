@@ -1,6 +1,13 @@
 [
-    
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
 
+    {
+        "name": "R Scripts",
+        "icon": "https://icons8.com/icon/CLvQeiwFpit4/r-project"
+    },
 
     {
         "name": "Firebase",
